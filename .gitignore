@@ -1,0 +1,9 @@
+# Build & temp files
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Executable (optional: omit if you only want to push source code)
+# NexusMart_POS.exe
